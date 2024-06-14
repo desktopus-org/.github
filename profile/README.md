@@ -1,4 +1,4 @@
-![Desktopus Logo](design/title_logo.png)
+![Desktopus Logo](../design/title_logo.png)
 
 ---
 
